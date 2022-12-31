@@ -20,6 +20,6 @@ public class Challenge1 {
 
         System.out.println("Please type in your name below.");
         String poop = scan.nextLine();
-        System.out.println("Hello " + poop);
+        System.out.println("Hello " + poop); 
     }
 }
